@@ -4,4 +4,4 @@ A cash register manager which helps the user by telling how can he/she return th
 
 Tech used: HTML, CSS, JavaScript
 
-Check out the app [here]()
+Check out the app [here](https://cashregister-tejansingh.netlify.app/)
